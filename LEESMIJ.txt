@@ -1,5 +1,9 @@
 Welkom bij de GitHub/GitPod-omgeving PHP/MyAdmin
+<<<<<<< HEAD
 van het Augustinuscollege Groningen :)
+=======
+van het Augustinuscollege Groningen........
+>>>>>>> d38fe5a969e62ebdc0c927b3d6a4dc9f3ab90577
 
 *********************** BELANGRIJK BELANGRIJK BELANGRIJK BELANGRIJK BELANGRIJK BELANGRIJK ***********************
 *********************** BELANGRIJK BELANGRIJK BELANGRIJK BELANGRIJK BELANGRIJK BELANGRIJK ***********************
