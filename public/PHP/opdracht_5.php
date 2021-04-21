@@ -7,11 +7,13 @@ TYP HIERONDER JOUW PHPCODE
 
 $reeks=array();
 //Deze for-loop vult de array $reeks met getallen
-for ($t=1;$t<=8;$t++) {
+for ($t=1;$t<=8;$t+=2) {
   array_push($reeks,$t);
 }
 print_r($reeks);
 echo "<br>";
+
+$macht3=array();
 
 /****************************
 EINDE VAN JOUW PHPCODE
