@@ -15,7 +15,15 @@ function dobbelsteen() {
   return $worp;
 }
 
-for ($n=0; $n<20; $n++) {
+function bereken_hoogte ($f) {
+  $hoogst=max($f);
+  for ($o=1; $o<=6; $o++) {
+    $h[$o]=200*$f[$o]/$hoogst;
+  }
+  return $h;
+}
+
+for ($n=0; $n<100; $n++) {
   $frequentie[dobbelsteen()]++;  
 }
 
